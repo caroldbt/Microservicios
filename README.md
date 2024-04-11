@@ -7,6 +7,10 @@
 </li>
 <h2>Crear un Topic SNS</h2>
 <li>
-  <ol>Crea un topic SNS y subscribir tu e-mail al topic, confirmar la subscripción desde su e-mail</ol>
+  <ol>Crea un topic SNS y subscribir tú e-mail al topic, confirmar la subscripción desde su e-mail</ol>
   <ol>En el fichero submit dentro de la carpeta html, debe sustituir el ARN de su Topic SNS</ol>
+  <ol>Añadir el Rol a la EC2</ol>
+  <ol>Añadir la política "SNSFullAcces"</ol>
+  <ol>Lanzar el siguiente comando : sudo docker-compose up</ol>
+  <ol>Abre el navegador y envia el formulario una vez rellenado, comprueba que has recibido el e-mail con la información del formulario. </ol>
 </li>
