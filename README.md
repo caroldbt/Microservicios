@@ -7,6 +7,7 @@
 </li>
 <h2>Crear un Topic SNS</h2>
 <li>
+  <ol>Asegúrate de configurar adecuadamente los ajustes de seguridad ( permitir el tráfico HTTP, SSH) ademas de los puertos 3036 y 8080.</ol>
   <ol>Crea un topic SNS y subscribir tú e-mail al topic, confirmar la subscripción desde su e-mail</ol>
   <ol>En el fichero submit dentro de la carpeta html, debe sustituir el ARN de su Topic SNS</ol>
   <ol>Añadir el Rol a la EC2</ol>
