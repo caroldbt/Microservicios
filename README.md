@@ -13,9 +13,9 @@
   <ol>Añadir el Rol a la EC2</ol>
   <ol>Añadir la política "SNSFullAcces"</ol>
   <ol>Lanzar el siguiente comando : </ol>
-    ```bash
+    <pre><code>
     sudo docker-compose up
-    ```
+    </pre></code>
   
   <ol>Abre el navegador y envia el formulario una vez rellenado, comprueba que has recibido el e-mail con la información del formulario. </ol>
 </li>
