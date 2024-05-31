@@ -1,11 +1,11 @@
-# Microservicios Docker - PhP - Mysql
-<h2>Instalar y configurar el servidor</h2>
+# Microservicios Docker con PHP y Mysql
+<h3>Instalar y configurar el servidor</h2>
 <li>
   <ol>Instalar docker</ol>
   <ol>Descargar docker-compose</ol>
   <ol>Dar permisos al docker-compose</ol>
 </li>
-<h2>Crear un Topic SNS</h2>
+<h3>Crear un Topic SNS</h2>
 <li>
   <ol>Asegúrate de configurar adecuadamente los ajustes de seguridad ( permitir el tráfico HTTP, SSH) ademas de los puertos 3036 y 8080.</ol>
   <ol>Crea un topic SNS y subscribir tú e-mail al topic, confirmar la subscripción desde su e-mail</ol>
